@@ -1,0 +1,17 @@
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalangesTest.deps.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalangesTest.runtimeconfig.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalangesTest.runtimeconfig.dev.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalangesTest.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalangesTest.pdb
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalanges.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\bin\Debug\netcoreapp2.2\CodilityChalanges.pdb
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.csprojAssemblyReference.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.csproj.CoreCompileInputs.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.AssemblyInfoInputs.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.AssemblyInfo.cs
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.csproj.CopyComplete
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalangesTest\obj\Debug\netcoreapp2.2\CodilityChalangesTest.pdb

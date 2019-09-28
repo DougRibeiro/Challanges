@@ -1,0 +1,11 @@
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\bin\Debug\netcoreapp2.2\CodilityChalanges.deps.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\bin\Debug\netcoreapp2.2\CodilityChalanges.runtimeconfig.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\bin\Debug\netcoreapp2.2\CodilityChalanges.runtimeconfig.dev.json
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\bin\Debug\netcoreapp2.2\CodilityChalanges.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\bin\Debug\netcoreapp2.2\CodilityChalanges.pdb
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.csprojAssemblyReference.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.csproj.CoreCompileInputs.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.AssemblyInfoInputs.cache
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.AssemblyInfo.cs
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.dll
+C:\GitRepositories\codility\CodilityChallenges\CodilityChalanges\CodilityChalanges\obj\Debug\netcoreapp2.2\CodilityChalanges.pdb
